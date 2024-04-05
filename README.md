@@ -1,5 +1,5 @@
 
-<h1 text align=center> linguaggi che vorrei non sapere della sua esistenza: </h1>
+<h1 text align=center> linguaggi che vorrei non sapere della loro esistenza: </h1>
 <div align=center>
 
 <img src="https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png" width="150" height="150" hspace=50>
