@@ -1,4 +1,5 @@
-<h1 text align=center> funzia</h1>
+<h1 text align=center> linguaggi brutti: </h1>
+<img src="[https://www.distortionbyte.com/images/it/informatica/linguaggio-c.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geekandjob.com%2Fwiki%2Fc&psig=AOvVaw27_O36c96T6unaK_8PMcLT&ust=1712422491571000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiruYXFq4UDFQAAAAAdAAAAABAE)" width="150" height="150" hspace=50>
 
 <!--
 **DavideFocalors79/DavideFocalors79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
