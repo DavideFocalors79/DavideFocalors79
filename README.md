@@ -1,5 +1,10 @@
 <h1 text align=center> linguaggi brutti: </h1>
-<img src="https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png" width="150" height="150" hspace=50 align=center>
+<div align=center>
+
+<img src="https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png" width="150" height="150" hspace=50>
+  
+</div>
+
 
 <!--
 **DavideFocalors79/DavideFocalors79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
