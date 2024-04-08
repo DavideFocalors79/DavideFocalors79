@@ -2,7 +2,9 @@
 <h1 text align=center> linguaggi che uso: </h1>
 <div align=center>
 
-<img src="https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png" width="150" height="150" hspace=50>
+<img src="https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png" width="150" height="170" hspace=50>
+<img src="[[https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png](https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png)](https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png)" width="150" height="170" hspace=50>
+<img src="https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png" width="150" height="170" hspace=50>
 </div>
 <h1 text align=center>  </h1>
 <div align=center>
