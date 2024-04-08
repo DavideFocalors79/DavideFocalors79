@@ -3,6 +3,8 @@
 <div align=center>
 
 <img src="https://www.geekandjob.com/uploads/wiki/9e88fca5f508c3931ab20fd562afa066d7ebc455.png" width="150" height="150" hspace=50>
+</div>
+<div align=center>
   <img src="https://media.tenor.com/1XG57qFFuWoAAAAM/ho-un-dubbio-ciccio.gif">
   <img src="https://media.tenor.com/OYBCYnbuSEsAAAAM/cicciogamer89.gif">
 </div>
